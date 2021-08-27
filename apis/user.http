@@ -1,0 +1,23 @@
+# Signup Request
+POST {{API_HOST}}/api/v1/users/signup
+Content-Type: application/json
+
+{
+  "username": "grim-reaper",
+  "email": "",
+  "password": "123456"
+}
+
+###
+
+# Verification Request
+GET {{API_HOST}}
+
+
+# Login Request
+
+# Forgot Password Request
+
+# Reset Password Request
+
+# Profile Details Request
